@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Diary Tests\obj\Release\netcoreapp2.2\Diary Tests.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Diary Tests\obj\Release\netcoreapp2.2\Diary Tests.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Diary Tests\obj\Release\netcoreapp2.2\Diary Tests.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Diary Tests\obj\Release\netcoreapp2.2\Diary Tests.AssemblyInfo.cs
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Diary Tests.deps.json
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Diary Tests.runtimeconfig.json
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Diary Tests.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Diary Tests.dll
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Diary Tests.pdb
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Diary.dll
+C:\Users\hp\source\repos\Diary Tests\bin\Release\netcoreapp2.2\Diary.pdb
+C:\Users\hp\source\repos\Diary Tests\obj\Release\netcoreapp2.2\Diary Tests.csproj.CopyComplete
+C:\Users\hp\source\repos\Diary Tests\obj\Release\netcoreapp2.2\Diary Tests.dll
+C:\Users\hp\source\repos\Diary Tests\obj\Release\netcoreapp2.2\Diary Tests.pdb

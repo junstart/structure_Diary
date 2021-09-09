@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Diary\bin\Debug\netcoreapp2.2\Diary.deps.json
+C:\Users\hp\source\repos\Diary\bin\Debug\netcoreapp2.2\Diary.runtimeconfig.json
+C:\Users\hp\source\repos\Diary\bin\Debug\netcoreapp2.2\Diary.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Diary\bin\Debug\netcoreapp2.2\Diary.dll
+C:\Users\hp\source\repos\Diary\bin\Debug\netcoreapp2.2\Diary.pdb
+C:\Users\hp\source\repos\Diary\obj\Debug\netcoreapp2.2\Diary.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Diary\obj\Debug\netcoreapp2.2\Diary.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Diary\obj\Debug\netcoreapp2.2\Diary.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Diary\obj\Debug\netcoreapp2.2\Diary.AssemblyInfo.cs
+C:\Users\hp\source\repos\Diary\obj\Debug\netcoreapp2.2\Diary.dll
+C:\Users\hp\source\repos\Diary\obj\Debug\netcoreapp2.2\Diary.pdb
